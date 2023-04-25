@@ -1,4 +1,4 @@
-Rust Server Hang Monitor
+Rust Server Hang Monitor for LGSM (Linux Game Server Manager)
 
 # Principal
 This is a simple Rust server monitor that will restart the server if it hangs. It will also send a message to a Discord channel if you have a webhook set up.
